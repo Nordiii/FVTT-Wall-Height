@@ -1,3 +1,7 @@
+# Information
+The original creator is https://github.com/schultzcole, I have no clue what I'm doing and I don’t know if I will keep this up to date.
+I have no intention to develop more on this plugin (except for stuff I personally want) therefor this won’t be put up on FoundryVTT, you need to grab the manifest URL from here.
+
 # Wall Height (Proof of Concept)
 
 Adds the ability to set wall height for walls so that tokens can look over them (or under them).
