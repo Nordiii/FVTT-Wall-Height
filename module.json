@@ -2,17 +2,17 @@
   "name": "wall-height",
   "title": "Wall Height",
   "description": "Adds the ability to set wall height for walls so that tokens can look over them.",
-  "version": "2.0.1",
-  "author": "Cole Schultz (cole#9640)",
+  "version": "2.0.2",
+  "author": "Cole Schultz (cole#9640), Nordiii",
   "esmodules": [
     "scripts/wall-height.js"
   ],
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "0.6.5",
-  "url": "https://github.com/schultzcole/FVTT-Wall-Height",
-  "manifest": "https://raw.githubusercontent.com/schultzcole/FVTT-Wall-Height/master/module.json",
-  "download": "https://github.com/schultzcole/FVTT-Wall-Height/archive/2.0.1.zip",
-  "license": "https://github.com/schultzcole/FVTT-Wall-Height/blob/2.0.1/LICENSE",
-  "readme": "https://github.com/schultzcole/FVTT-Wall-Height/blob/2.0.1/README.md",
-  "changelog": "https://github.com/schultzcole/FVTT-Wall-Height/blob/2.0.1/CHANGELOG.md"
+  "url": "https://github.com/Nordiii/FVTT-Wall-Height",
+  "manifest": "https://raw.githubusercontent.com/Nordiii/FVTT-Wall-Height/master/module.json",
+  "download": "https://github.com/Nordiii/FVTT-Wall-Height/archive/2.0.1.zip",
+  "license": "https://github.com/Nordiii/FVTT-Wall-Height/blob/2.0.1/LICENSE",
+  "readme": "https://github.com/Nordiii/FVTT-Wall-Height/blob/2.0.1/README.md",
+  "changelog": "https://github.com/Nordiii/FVTT-Wall-Height/blob/2.0.1/CHANGELOG.md"
 }
