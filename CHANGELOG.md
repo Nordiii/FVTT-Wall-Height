@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [3.0.0] 2020-10-21
+
+### CHANGED
+
+- Ensure that wall height works correctly with the extensive sight calculation changes in 0.7
+
+## [2.0.2] 2020-10-10
+
+### FIXED
+
+- Fix an issue that would cause the wall height fields to appear multiple times in the wall config dialog, creating invalid wall heights. (thank you Exitalterego for the pull request)
+
 ## [2.0.1] 2020-07-28
 
 ### CHANGED
